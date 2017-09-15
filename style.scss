@@ -1,0 +1,16 @@
+$bgcolor: teal;
+
+body {
+  background: $bgcolor;
+  h1 {
+    text-align: center;
+    color: #fff;
+    font-size: 50px;
+    position: fixed;
+    top: 50%;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    font-variant: georgia,
+  }
+}
